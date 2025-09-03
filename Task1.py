@@ -11,6 +11,5 @@ student = {
 @app.get("/")
 def hello():
     return {
-        "heading": "Student Information",
         "student_details": student
     }
