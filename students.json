@@ -1,0 +1,12 @@
+{
+  "St01": { "id": "BSE223001", "name": "Rida Fatima", "age": 20, "degree": "Software Engineering", "CGPA": 3.9 },
+  "St02": { "id": "BSE223002", "name": "Arslan Khan", "age": 21, "degree": "Software Engineering", "CGPA": 3.2 },
+  "St03": { "id": "BSE223003", "name": "Mirha Haris", "age": 20, "degree": "Computer Science", "CGPA": 3.6 },
+  "St04": { "id": "BSE223004", "name": "Zoya Ahmed", "age": 22, "degree": "Information Technology", "CGPA": 3.4 },
+  "St05": { "id": "BSE223005", "name": "Hamna Haris", "age": 19, "degree": "Artificial Intelligence", "CGPA": 3.7 },
+  "St06": { "id": "BSE223006", "name": "Noor Fatima", "age": 20, "degree": "Cybersecurity", "CGPA": 3.3 },
+  "St07": { "id": "BSE223007", "name": "Zainab Malik", "age": 21, "degree": "Data Science", "CGPA": 3.8 },
+  "St08": { "id": "BSE223008", "name": "Hina Shah", "age": 20, "degree": "Software Engineering", "CGPA": 3.5 },
+  "St09": { "id": "BSE223009", "name": "Tania Sajid", "age": 22, "degree": "Information Technology", "CGPA": 3.1 },
+  "St10": { "id": "BSE223010", "name": "Sana Iqbal", "age": 22, "degree": "Computer Science", "CGPA": 3.0 }
+}
