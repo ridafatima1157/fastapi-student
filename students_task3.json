@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Rida Fatima",
+    "age": 20,
+    "roll_number": "R001",
+    "grade": "A"
+  },
+  {
+    "id": 2,
+    "name": "Arslan Khan",
+    "age": 22,
+    "roll_number": "R002",
+    "grade": "B"
+  },
+  {
+    "id": 3,
+    "name": "Mirha Haris",
+    "age": 19,
+    "roll_number": "R003",
+    "grade": "A+"
+  }
+]
